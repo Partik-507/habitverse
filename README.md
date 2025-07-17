@@ -1,10 +1,9 @@
  
 ---
 
-# 🌟 HabitVerse – Your Second Brain & Ultimate Life Dashboard
+# 🌟 HabitVerse is Your Ultimate Life Dashboard
 
-Welcome to **HabitVerse** — a beautifully crafted, all-in-one productivity & self-growth platform built with love.
-This frontend-only app is your personal second brain to track habits, manage tasks, stay focused, and build the life you want.
+Welcome to **HabitVerse** — a beautifully crafted, all-in-one productivity & self-growth platform built with love. 
 
  
 ---
