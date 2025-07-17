@@ -42,7 +42,7 @@ const navigation = [
   { name: 'Notes', href: '/notes', icon: FileText },
   { name: 'Analytics', href: '/analytics', icon: BarChart3 },
   { name: 'Achievements', href: '/achievements', icon: Trophy },
-  { name: 'Squad', href: '/squad', icon: Users },
+  // { name: 'Squad', href: '/squad', icon: Users },
   { name: 'Goals', href: '/goals', icon: Target },
   { name: 'Notifications', href: '/notifications', icon: Bell },
   { name: 'Utilities', href: '/utilities', icon: Wrench },
